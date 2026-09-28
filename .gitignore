@@ -1,0 +1,14 @@
+# Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Временные файлы
+*.tmp
+*.log
+
+# Папки сборки
+Debug/
+Release/
